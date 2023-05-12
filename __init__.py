@@ -1,0 +1,1 @@
+from .fibonacci import fib             ##直接使用package中的name import module
